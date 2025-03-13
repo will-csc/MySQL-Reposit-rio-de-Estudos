@@ -1,4 +1,4 @@
-### **Practical SQL - Repositório de Estudos**
+# **Practical SQL - Repositório de Estudos**
 
 Este repositório contém todos os códigos e respostas das questões do livro **"Practical SQL"**. O objetivo deste projeto é consolidar o conhecimento em SQL, explorando desde conceitos básicos até consultas avançadas e manipulação de dados.
 
